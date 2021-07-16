@@ -1,0 +1,1 @@
+(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[956],{5936:function(o){"use strict";o.exports=JSON.parse('{"allTagsPath":"/Notebook/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/Notebook/blog/tags/hello"}')}}]);
